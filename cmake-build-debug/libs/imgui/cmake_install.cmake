@@ -1,4 +1,4 @@
-# Install script for directory: /home/korisnik/project_base/libs/imgui
+# Install script for directory: /home/korisnik/Desktop/project_base/libs/imgui
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

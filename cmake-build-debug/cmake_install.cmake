@@ -1,4 +1,4 @@
-# Install script for directory: /home/korisnik/project_base
+# Install script for directory: /home/korisnik/Desktop/project_base
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,8 +44,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/korisnik/project_base/cmake-build-debug/libs/glad/cmake_install.cmake")
-  include("/home/korisnik/project_base/cmake-build-debug/libs/imgui/cmake_install.cmake")
+  include("/home/korisnik/Desktop/project_base/cmake-build-debug/libs/glad/cmake_install.cmake")
+  include("/home/korisnik/Desktop/project_base/cmake-build-debug/libs/imgui/cmake_install.cmake")
 
 endif()
 
@@ -57,5 +57,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/korisnik/project_base/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/korisnik/Desktop/project_base/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
